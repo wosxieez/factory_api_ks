@@ -16,6 +16,6 @@
     "koa-router": "^7.4.0",
     "koa2-cors": "^2.0.6",
     "mysql2": "^1.6.5",
-    "sequelize": "^5.12.3"
+    "sequelize": "^5.15.1"
   }
 }
